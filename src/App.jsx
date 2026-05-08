@@ -201,7 +201,7 @@ function App() {
             <div className="logo-section">
               <div className="logo-icon">FS</div>
               <div>
-                <h1>The Digital Atelier</h1>
+                <h1>Fine Space Interior</h1>
                 <p>Interior Design Studio</p>
               </div>
             </div>

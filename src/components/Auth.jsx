@@ -90,7 +90,7 @@ export default function Auth() {
 
   const getSubtitle = () => {
     if (isRecovery) return 'Enter your new secure password';
-    if (isSignUp) return 'Join The Digital Atelier team';
+    if (isSignUp) return 'Join Fine Space Interior team';
     return 'Secure sign in to your projects';
   };
 

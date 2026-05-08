@@ -194,7 +194,7 @@ export default function Reports() {
       doc.setFontSize(28);
       doc.setTextColor(255, 255, 255);
       doc.setFont('helvetica', 'bold');
-      doc.text("FINE SPACE", 14, 25);
+      doc.text("FINE SPACE INTERIOR", 14, 25);
       
       doc.setFontSize(10);
       doc.setFont('helvetica', 'normal');

@@ -78,7 +78,7 @@ export default function ClientDetails() {
       doc.rect(0, 0, 210, 40, 'F');
       doc.setFontSize(26);
       doc.setTextColor(255, 255, 255);
-      doc.text("FINE SPACE", 14, 25);
+      doc.text("FINE SPACE INTERIOR", 14, 25);
       doc.setFontSize(10);
       doc.text("FULL PROJECT ESTIMATE SUMMARY", 14, 32);
       

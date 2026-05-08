@@ -229,7 +229,7 @@ export default function SectionDetails() {
       doc.setFontSize(28);
       doc.setTextColor(255, 255, 255);
       doc.setFont('helvetica', 'bold');
-      doc.text("FINE SPACE", 14, 25);
+      doc.text("FINE SPACE INTERIOR", 14, 25);
       
       doc.setFontSize(10);
       doc.setFont('helvetica', 'normal');
@@ -316,7 +316,7 @@ export default function SectionDetails() {
         doc.setFontSize(8);
         doc.setTextColor(156, 163, 175);
         doc.text(`Page ${i} of ${pageCount}`, 196, 285, { align: 'right' });
-        doc.text("Generated via Fine Space - The Digital Atelier", 14, 285);
+        doc.text("Generated via Fine Space Interior", 14, 285);
         
         doc.setDrawColor(...primaryColor);
         doc.setLineWidth(0.5);
