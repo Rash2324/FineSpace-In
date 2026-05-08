@@ -32,3 +32,6 @@ dist-ssr
 .agents
 .trae
 stitch_assets
+
+.vercel
+.env*.local
